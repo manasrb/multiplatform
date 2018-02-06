@@ -1,0 +1,15 @@
+{
+  "name": "manas-multiplatform",
+  "version": "0.1.0",
+  "author": "manas",
+  "summary": "This is for multi OS configuration",
+  "license": "Apache-2.0",
+  "source": "https://github.com/manasrb/multiplatform.git",
+  "project_page": "https://github.com/manasrb/multiplatform",
+  "issues_url": "https://github.com/manasrb/multiplatform/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": "function"
+}
+
